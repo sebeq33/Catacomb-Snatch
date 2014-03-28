@@ -7,8 +7,9 @@ The projects requirement for the degree was :
 - show your knowledge
 - being able to modify and create new feature during the presentation
 
+It's a shoot 'em up strategy game with steampunk and Ancient Egypt themes on Java Platform.
 It's made using Mojang "mojam" open source project called "Catacomb snatch", made in a two days of rush, then develloped by community.
 
-Started with one of this project present release in 02/2012 : https://github.com/Maescool/Catacomb-Snatch
+Started with one of this project early release in 02/2012 : https://github.com/Maescool/Catacomb-Snatch
 
 My part is most of the level editor, some tiles and mobs, some animations, some console commands.
