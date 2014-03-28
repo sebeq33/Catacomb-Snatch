@@ -3,7 +3,7 @@ Catacomb-Snatch
 
 Old project used as one of my French "BTS informatique de gestions" degree project, and also my first personal project. So, it's made before my Epitech formation / auto-formation ;).
 
-The projects requirement for the degree was :
+The projects requirement for the degree project was :
 - softwares able to create, modify, save and delete data in any language and any form"
 - show your knowledge
 - being able to modify and create new feature during the presentation
