@@ -1,6 +1,6 @@
 ![Catacomb Snatch](http://i.imgur.com/uSFJF.png)
 
-Old project used as one of my French "BTS informatique de gestions" degree project, and also my first personal project. So, it's made before my Epitech formation / auto-formation ;) but still is a cool game / project.
+Old project used as one of my French "BTS informatique de gestions" degree project (2012), and also my first personal project. So, it's made before my Epitech formation / auto-formation ;) but still is a cool game / project.
 
 The projects requirement for the degree project was :
 - softwares able to create, modify, save and delete data in any language and any form"
