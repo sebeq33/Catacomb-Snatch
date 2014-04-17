@@ -10,6 +10,21 @@ The projects requirement for the degree project was :
 It's a shoot 'em up strategy game with steampunk and Ancient Egypt themes on Java Platform.
 It's made using Mojang "mojam" open source project called "Catacomb snatch", made in a two days of rush, then develloped by community.
 Started with one of this project early release in 02/2012 : https://github.com/Maescool/Catacomb-Snatch
+The pharaoh textures comes from catacomb snatch forum.
 
-My part is most of the level editor, some tiles and mobs, some animations, some console commands, also edited some menu bugs (when changing pages while opening level menu, exit menu ... etc).
+My part / modifications / work : 
+- choose level size
+- most of the level editor (resizeable level, right/middle/left mouse click, minimap, bug fix)
+- some tiles (key locked doors, water tile)
+- some items (life bonus, level map, keys)
+- some mobs / boss (pharaoh)
+- some animations (when exit on main menu, walking on water tile animation)
+- mobs life point display
+- some mobs IA (mummy)
+- some console commands (kill entity, give money, creative on/off, reveal map)
+- removed some menu bugs (when changing pages while opening level menu, exit menu ... etc).
+
+
 The best entry point is MojamComponent but MojamStarter works too (the soft downloads ressource files before running).
+
+The project is finished, I'll not work anymore on it but i keep the game and my work safe =D (and maybe someone will like it).
