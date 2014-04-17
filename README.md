@@ -27,4 +27,4 @@ My part / modifications / work :
 
 The best entry point is MojamComponent but MojamStarter works too (the soft downloads ressource files before running).
 
-The project is finished, I'll not work anymore on it but i keep the game and my work safe =D (and maybe someone will like it).
+The project is finished, I'll not work anymore on it, but I keep the game and my work safe =D (and maybe someone will like it).
