@@ -1,7 +1,7 @@
 Catacomb-Snatch
 ===============
 
-Old project used as one of my French "BTS informatique de gestions" degree project, and also my first personal project. So, it's made before my Epitech formation / auto-formation ;).
+Old project used as one of my French "BTS informatique de gestions" degree project, and also my first personal project. So, it's made before my Epitech formation / auto-formation ;) but still is a cool game / project.
 
 The projects requirement for the degree project was :
 - softwares able to create, modify, save and delete data in any language and any form"
@@ -10,7 +10,7 @@ The projects requirement for the degree project was :
 
 It's a shoot 'em up strategy game with steampunk and Ancient Egypt themes on Java Platform.
 It's made using Mojang "mojam" open source project called "Catacomb snatch", made in a two days of rush, then develloped by community.
-
 Started with one of this project early release in 02/2012 : https://github.com/Maescool/Catacomb-Snatch
 
-My part is most of the level editor, some tiles and mobs, some animations, some console commands.
+My part is most of the level editor, some tiles and mobs, some animations, some console commands, also edited some menu bugs (when changing pages while opening level menu, exit menu ... etc).
+The best entry point is MojamComponent but MojamStarter works too (the soft downloads ressource files before running).
