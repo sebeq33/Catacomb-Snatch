@@ -14,7 +14,7 @@ The pharaoh textures comes from catacomb snatch forum.
 
 My part / modifications / work : 
 - choose level size
-- most of the level editor (resizeable level, right/middle/left mouse click, minimap, bug fix)
+- most of the level editor (open level menu, resizeable level, right/middle/left mouse click, minimap, bug fix)
 - some tiles (key locked doors, water tile)
 - some items (life bonus, level map, keys)
 - some mobs / boss (pharaoh)
